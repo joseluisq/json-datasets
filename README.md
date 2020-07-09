@@ -84,6 +84,28 @@ __Structure:__
 },
 ```
 
+### 4. Currency JSON list with symbols
+
+Currency JSON list with their symbols per ISO code.
+
+__File:__ [currencies_symbols.json](./json/currencies/currencies_symbols.json)
+
+__Structure:__
+
+```json
+{
+    "EUR": {
+        "symbol": "€",
+        "name": "Euro",
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "iso_code": "EUR",
+        "name_plural": "euros"
+    },
+}
+```
+
 ## Contributions
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in current work by you, as defined in the Apache-2.0 license, shall be dual licensed as described below, without any additional terms or conditions.
