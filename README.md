@@ -1,8 +1,10 @@
 # JSON Datasets 🌎
 
-> Example of various datasets in JSON format for different usage.
+> Example of various datasets in JSON format for different usages.
 
-## Programming languages and their keywords
+## Programming languages
+
+### 1. Programming languages and their keywords
 
 JSON file of programming languages and their keywords. Additionally it contains a summary and extensions fields. Originally adapted from https://github.com/leighmcculloch/keywords.
 
@@ -28,7 +30,9 @@ __Structure:__
 
 ## Currencies
 
-JSON list of all currency symbols from the [Currency Code Services – ISO 4217 / Currency & funds code list](https://www.currency-iso.org/en/home/tables.html)
+### 1. Current JSON list of all currency symbols
+
+Current JSON list of all currency symbols from the [Currency Code Services – ISO 4217 / Currency & funds code list](https://www.currency-iso.org/en/home/tables.html)
 
 __File:__ [currencies_medium.json](./json/currencies/currencies_medium.json)
 
@@ -44,7 +48,9 @@ __Structure:__
 },
 ```
 
-JSON list of all currency symbols from the [Open Exchange Rates API](https://docs.openexchangerates.org/docs/currencies-json).
+### 2. Simple current JSON list of currency symbols
+
+Current JSON list of all currency symbols from the [Open Exchange Rates API](https://docs.openexchangerates.org/docs/currencies-json).
 
 __File:__ [currencies_simple.json](./json/currencies/currencies_simple.json)
 
@@ -57,6 +63,24 @@ __Structure:__
     "FKP": "Falkland Islands Pound",
     "GBP": "British Pound Sterling",
     "GEL": "Georgian Lari",
+},
+```
+
+### 3. Historic denominations of currencies
+
+Historic denominations of currencies and funds by [Currency Code Services – ISO 4217](https://www.currency-iso.org/en/home/tables/table-a3.html)
+
+__File:__ [currencies_historical.json](./json/currencies/currencies_historical.json)
+
+__Structure:__
+
+```json
+{
+    "country_name": "GERMANY",
+    "currency_name": "Deutsche Mark",
+    "currency_iso_code": "DEM",
+    "currency_number": "276",
+    "currency_wthdrwl_dt": "2002-03"
 },
 ```
 

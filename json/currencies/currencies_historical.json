@@ -1,0 +1,1143 @@
+{
+  "iso": "4217",
+  "published": "2018-08-20",
+  "data": [
+    {
+      "country_name": "AFGHANISTAN",
+      "currency_name": "Afghani",
+      "currency_iso_code": "AFA",
+      "currency_number": "004",
+      "currency_wthdrwl_dt": "2003-01"
+    },
+    {
+      "country_name": "ÅLAND ISLANDS",
+      "currency_name": "Markka",
+      "currency_iso_code": "FIM",
+      "currency_number": "246",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "ALBANIA",
+      "currency_name": "Old Lek",
+      "currency_iso_code": "ALK",
+      "currency_number": "008",
+      "currency_wthdrwl_dt": "1989-12"
+    },
+    {
+      "country_name": "ANDORRA",
+      "currency_name": "Andorran Peseta",
+      "currency_iso_code": "ADP",
+      "currency_number": "020",
+      "currency_wthdrwl_dt": "2003-07"
+    },
+    {
+      "country_name": "ANDORRA",
+      "currency_name": "Spanish Peseta",
+      "currency_iso_code": "ESP",
+      "currency_number": "724",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "ANDORRA",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "ANGOLA",
+      "currency_name": "Kwanza",
+      "currency_iso_code": "AOK",
+      "currency_number": "024",
+      "currency_wthdrwl_dt": "1991-03"
+    },
+    {
+      "country_name": "ANGOLA",
+      "currency_name": "New Kwanza",
+      "currency_iso_code": "AON",
+      "currency_number": "024",
+      "currency_wthdrwl_dt": "2000-02"
+    },
+    {
+      "country_name": "ANGOLA",
+      "currency_name": "Kwanza Reajustado",
+      "currency_iso_code": "AOR",
+      "currency_number": "982",
+      "currency_wthdrwl_dt": "2000-02"
+    },
+    {
+      "country_name": "ARGENTINA",
+      "currency_name": "Austral",
+      "currency_iso_code": "ARA",
+      "currency_number": "032",
+      "currency_wthdrwl_dt": "1992-01"
+    },
+    {
+      "country_name": "ARGENTINA",
+      "currency_name": "Peso Argentino",
+      "currency_iso_code": "ARP",
+      "currency_number": "032",
+      "currency_wthdrwl_dt": "1985-07"
+    },
+    {
+      "country_name": "ARGENTINA",
+      "currency_name": "Peso",
+      "currency_iso_code": "ARY",
+      "currency_number": "032",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "ARMENIA",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1994-08"
+    },
+    {
+      "country_name": "AUSTRIA",
+      "currency_name": "Schilling",
+      "currency_iso_code": "ATS",
+      "currency_number": "040",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "AZERBAIJAN",
+      "currency_name": "Azerbaijan Manat",
+      "currency_iso_code": "AYM",
+      "currency_number": "945",
+      "currency_wthdrwl_dt": "2005-10"
+    },
+    {
+      "country_name": "AZERBAIJAN",
+      "currency_name": "Azerbaijanian Manat",
+      "currency_iso_code": "AZM",
+      "currency_number": "031",
+      "currency_wthdrwl_dt": "2005-12"
+    },
+    {
+      "country_name": "AZERBAIJAN",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1994-08"
+    },
+    {
+      "country_name": "BELARUS",
+      "currency_name": "Belarusian Ruble",
+      "currency_iso_code": "BYB",
+      "currency_number": "112",
+      "currency_wthdrwl_dt": "2001-01"
+    },
+    {
+      "country_name": "BELARUS",
+      "currency_name": "Belarusian Ruble",
+      "currency_iso_code": "BYR",
+      "currency_number": "974",
+      "currency_wthdrwl_dt": "2017-01"
+    },
+    {
+      "country_name": "BELARUS",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1994-06"
+    },
+    {
+      "country_name": "BELGIUM",
+      "currency_name": "Convertible Franc",
+      "currency_iso_code": "BEC",
+      "currency_number": "993",
+      "currency_wthdrwl_dt": "1990-03"
+    },
+    {
+      "country_name": "BELGIUM",
+      "currency_name": "Belgian Franc",
+      "currency_iso_code": "BEF",
+      "currency_number": "056",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "BELGIUM",
+      "currency_name": "Financial Franc",
+      "currency_iso_code": "BEL",
+      "currency_number": "992",
+      "currency_wthdrwl_dt": "1990-03"
+    },
+    {
+      "country_name": "BOLIVIA",
+      "currency_name": "Peso boliviano",
+      "currency_iso_code": "BOP",
+      "currency_number": "068",
+      "currency_wthdrwl_dt": "1987-02"
+    },
+    {
+      "country_name": "BOSNIA AND HERZEGOVINA",
+      "currency_name": "Dinar",
+      "currency_iso_code": "BAD",
+      "currency_number": "070",
+      "currency_wthdrwl_dt": "1998-07"
+    },
+    {
+      "country_name": "BRAZIL",
+      "currency_name": "Cruzeiro",
+      "currency_iso_code": "BRB",
+      "currency_number": "076",
+      "currency_wthdrwl_dt": "1986-03"
+    },
+    {
+      "country_name": "BRAZIL",
+      "currency_name": "Cruzado",
+      "currency_iso_code": "BRC",
+      "currency_number": "076",
+      "currency_wthdrwl_dt": "1989-02"
+    },
+    {
+      "country_name": "BRAZIL",
+      "currency_name": "Cruzeiro",
+      "currency_iso_code": "BRE",
+      "currency_number": "076",
+      "currency_wthdrwl_dt": "1993-03"
+    },
+    {
+      "country_name": "BRAZIL",
+      "currency_name": "New Cruzado",
+      "currency_iso_code": "BRN",
+      "currency_number": "076",
+      "currency_wthdrwl_dt": "1990-03"
+    },
+    {
+      "country_name": "BRAZIL",
+      "currency_name": "Cruzeiro Real",
+      "currency_iso_code": "BRR",
+      "currency_number": "987",
+      "currency_wthdrwl_dt": "1994-07"
+    },
+    {
+      "country_name": "BULGARIA",
+      "currency_name": "Lev A/52",
+      "currency_iso_code": "BGJ",
+      "currency_number": "100",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "BULGARIA",
+      "currency_name": "Lev A/62",
+      "currency_iso_code": "BGK",
+      "currency_number": "100",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "BULGARIA",
+      "currency_name": "Lev",
+      "currency_iso_code": "BGL",
+      "currency_number": "100",
+      "currency_wthdrwl_dt": "2003-11"
+    },
+    {
+      "country_name": "BURMA",
+      "currency_name": "Kyat",
+      "currency_iso_code": "BUK",
+      "currency_number": "104",
+      "currency_wthdrwl_dt": "1990-02"
+    },
+    {
+      "country_name": "CROATIA",
+      "currency_name": "Croatian Dinar",
+      "currency_iso_code": "HRD",
+      "currency_number": "191",
+      "currency_wthdrwl_dt": "1995-01"
+    },
+    {
+      "country_name": "CROATIA",
+      "currency_name": "Croatian Kuna",
+      "currency_iso_code": "HRK",
+      "currency_number": "191",
+      "currency_wthdrwl_dt": "2015-06"
+    },
+    {
+      "country_name": "CYPRUS",
+      "currency_name": "Cyprus Pound",
+      "currency_iso_code": "CYP",
+      "currency_number": "196",
+      "currency_wthdrwl_dt": "2008-01"
+    },
+    {
+      "country_name": "CZECHOSLOVAKIA",
+      "currency_name": "Krona A/53",
+      "currency_iso_code": "CSJ",
+      "currency_number": "203",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "CZECHOSLOVAKIA",
+      "currency_name": "Koruna",
+      "currency_iso_code": "CSK",
+      "currency_number": "200",
+      "currency_wthdrwl_dt": "1993-03"
+    },
+    {
+      "country_name": "ECUADOR",
+      "currency_name": "Sucre",
+      "currency_iso_code": "ECS",
+      "currency_number": "218",
+      "currency_wthdrwl_dt": "2000-09"
+    },
+    {
+      "country_name": "ECUADOR",
+      "currency_name": "Unidad de Valor Constante (UVC)",
+      "currency_iso_code": "ECV",
+      "currency_number": "983",
+      "currency_wthdrwl_dt": "2000-09"
+    },
+    {
+      "country_name": "EQUATORIAL GUINEA",
+      "currency_name": "Ekwele",
+      "currency_iso_code": "GQE",
+      "currency_number": "226",
+      "currency_wthdrwl_dt": "1986-06"
+    },
+    {
+      "country_name": "ESTONIA",
+      "currency_name": "Kroon",
+      "currency_iso_code": "EEK",
+      "currency_number": "233",
+      "currency_wthdrwl_dt": "2011-01"
+    },
+    {
+      "country_name": "EUROPEAN MONETARY CO-OPERATION FUND (EMCF)",
+      "currency_name": "European Currency Unit (E.C.U)",
+      "currency_iso_code": "XEU",
+      "currency_number": "954",
+      "currency_wthdrwl_dt": "1999-01"
+    },
+    {
+      "country_name": "FINLAND",
+      "currency_name": "Markka",
+      "currency_iso_code": "FIM",
+      "currency_number": "246",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "FRANCE",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "FRENCH  GUIANA",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "FRENCH SOUTHERN TERRITORIES",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "GEORGIA",
+      "currency_name": "Georgian Coupon",
+      "currency_iso_code": "GEK",
+      "currency_number": "268",
+      "currency_wthdrwl_dt": "1995-10"
+    },
+    {
+      "country_name": "GEORGIA",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1994-04"
+    },
+    {
+      "country_name": "GERMAN DEMOCRATIC REPUBLIC",
+      "currency_name": "Mark der DDR",
+      "currency_iso_code": "DDM",
+      "currency_number": "278",
+      "currency_wthdrwl_dt": "1990-07 to 1990-09"
+    },
+    {
+      "country_name": "GERMANY",
+      "currency_name": "Deutsche Mark",
+      "currency_iso_code": "DEM",
+      "currency_number": "276",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "GHANA",
+      "currency_name": "Cedi",
+      "currency_iso_code": "GHC",
+      "currency_number": "288",
+      "currency_wthdrwl_dt": "2008-01"
+    },
+    {
+      "country_name": "GHANA",
+      "currency_name": "Ghana Cedi",
+      "currency_iso_code": "GHP",
+      "currency_number": "939",
+      "currency_wthdrwl_dt": "2007-06"
+    },
+    {
+      "country_name": "GREECE",
+      "currency_name": "Drachma",
+      "currency_iso_code": "GRD",
+      "currency_number": "300",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "GUADELOUPE",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "GUINEA",
+      "currency_name": "Syli",
+      "currency_iso_code": "GNE",
+      "currency_number": "324",
+      "currency_wthdrwl_dt": "1989-12"
+    },
+    {
+      "country_name": "GUINEA",
+      "currency_name": "Syli",
+      "currency_iso_code": "GNS",
+      "currency_number": "324",
+      "currency_wthdrwl_dt": "1986-02"
+    },
+    {
+      "country_name": "GUINEA-BISSAU",
+      "currency_name": "Guinea Escudo",
+      "currency_iso_code": "GWE",
+      "currency_number": "624",
+      "currency_wthdrwl_dt": "1978 to 1981"
+    },
+    {
+      "country_name": "GUINEA-BISSAU",
+      "currency_name": "Guinea-Bissau Peso",
+      "currency_iso_code": "GWP",
+      "currency_number": "624",
+      "currency_wthdrwl_dt": "1997-05"
+    },
+    {
+      "country_name": "HOLY SEE (VATICAN CITY STATE)",
+      "currency_name": "Italian Lira",
+      "currency_iso_code": "ITL",
+      "currency_number": "380",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "ICELAND",
+      "currency_name": "Old Krona",
+      "currency_iso_code": "ISJ",
+      "currency_number": "352",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "IRELAND",
+      "currency_name": "Irish Pound",
+      "currency_iso_code": "IEP",
+      "currency_number": "372",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "ISRAEL",
+      "currency_name": "Pound",
+      "currency_iso_code": "ILP",
+      "currency_number": "376",
+      "currency_wthdrwl_dt": "1978 to 1981"
+    },
+    {
+      "country_name": "ISRAEL",
+      "currency_name": "Old Shekel",
+      "currency_iso_code": "ILR",
+      "currency_number": "376",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "ITALY",
+      "currency_name": "Italian Lira",
+      "currency_iso_code": "ITL",
+      "currency_number": "380",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "KAZAKHSTAN",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1994-05"
+    },
+    {
+      "country_name": "KYRGYZSTAN",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1993-01"
+    },
+    {
+      "country_name": "LAO",
+      "currency_name": "Pathet Lao Kip",
+      "currency_iso_code": "LAJ",
+      "currency_number": "418",
+      "currency_wthdrwl_dt": "1979-12"
+    },
+    {
+      "country_name": "LATVIA",
+      "currency_name": "Latvian Lats",
+      "currency_iso_code": "LVL",
+      "currency_number": "428",
+      "currency_wthdrwl_dt": "2014-01"
+    },
+    {
+      "country_name": "LATVIA",
+      "currency_name": "Latvian Ruble",
+      "currency_iso_code": "LVR",
+      "currency_number": "428",
+      "currency_wthdrwl_dt": "1994-12"
+    },
+    {
+      "country_name": "LESOTHO",
+      "currency_name": "Loti",
+      "currency_iso_code": "LSM",
+      "currency_number": "426",
+      "currency_wthdrwl_dt": "1985-05"
+    },
+    {
+      "country_name": "LESOTHO",
+      "currency_name": "Financial Rand",
+      "currency_iso_code": "ZAL",
+      "currency_number": "991",
+      "currency_wthdrwl_dt": "1995-03"
+    },
+    {
+      "country_name": "LITHUANIA",
+      "currency_name": "Lithuanian Litas",
+      "currency_iso_code": "LTL",
+      "currency_number": "440",
+      "currency_wthdrwl_dt": "2014-12"
+    },
+    {
+      "country_name": "LITHUANIA",
+      "currency_name": "Talonas",
+      "currency_iso_code": "LTT",
+      "currency_number": "440",
+      "currency_wthdrwl_dt": "1993-07"
+    },
+    {
+      "country_name": "LUXEMBOURG",
+      "currency_name": "Luxembourg Convertible Franc",
+      "currency_iso_code": "LUC",
+      "currency_number": "989",
+      "currency_wthdrwl_dt": "1990-03"
+    },
+    {
+      "country_name": "LUXEMBOURG",
+      "currency_name": "Luxembourg Franc",
+      "currency_iso_code": "LUF",
+      "currency_number": "442",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "LUXEMBOURG",
+      "currency_name": "Luxembourg Financial Franc",
+      "currency_iso_code": "LUL",
+      "currency_number": "988",
+      "currency_wthdrwl_dt": "1990-03"
+    },
+    {
+      "country_name": "MADAGASCAR",
+      "currency_name": "Malagasy Franc",
+      "currency_iso_code": "MGF",
+      "currency_number": "450",
+      "currency_wthdrwl_dt": "2004-12"
+    },
+    {
+      "country_name": "MALAWI",
+      "currency_name": "Kwacha",
+      "currency_iso_code": "MWK",
+      "currency_number": "454",
+      "currency_wthdrwl_dt": "2016-02"
+    },
+    {
+      "country_name": "MALDIVES",
+      "currency_name": "Maldive Rupee",
+      "currency_iso_code": "MVQ",
+      "currency_number": "462",
+      "currency_wthdrwl_dt": "1989-12"
+    },
+    {
+      "country_name": "MALI",
+      "currency_name": "Mali Franc",
+      "currency_iso_code": "MLF",
+      "currency_number": "466",
+      "currency_wthdrwl_dt": "1984-11"
+    },
+    {
+      "country_name": "MALTA",
+      "currency_name": "Maltese Lira",
+      "currency_iso_code": "MTL",
+      "currency_number": "470",
+      "currency_wthdrwl_dt": "2008-01"
+    },
+    {
+      "country_name": "MALTA",
+      "currency_name": "Maltese Pound",
+      "currency_iso_code": "MTP",
+      "currency_number": "470",
+      "currency_wthdrwl_dt": "1983-06"
+    },
+    {
+      "country_name": "MARTINIQUE",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "MAURITANIA",
+      "currency_name": "Ouguiya",
+      "currency_iso_code": "MRO",
+      "currency_number": "478",
+      "currency_wthdrwl_dt": "2017-12"
+    },
+    {
+      "country_name": "MAYOTTE",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "MEXICO",
+      "currency_name": "Mexican Peso",
+      "currency_iso_code": "MXP",
+      "currency_number": "484",
+      "currency_wthdrwl_dt": "1993-01"
+    },
+    {
+      "country_name": "MOLDOVA, REPUBLIC OF",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1993-12"
+    },
+    {
+      "country_name": "MONACO",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "MOZAMBIQUE",
+      "currency_name": "Mozambique Escudo",
+      "currency_iso_code": "MZE",
+      "currency_number": "508",
+      "currency_wthdrwl_dt": "1978 to 1981"
+    },
+    {
+      "country_name": "MOZAMBIQUE",
+      "currency_name": "Mozambique Metical",
+      "currency_iso_code": "MZM",
+      "currency_number": "508",
+      "currency_wthdrwl_dt": "2006-06"
+    },
+    {
+      "country_name": "NETHERLANDS",
+      "currency_name": "Netherlands Guilder",
+      "currency_iso_code": "NLG",
+      "currency_number": "528",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "NETHERLANDS ANTILLES",
+      "currency_name": "Netherlands Antillean Guilder",
+      "currency_iso_code": "ANG",
+      "currency_number": "532",
+      "currency_wthdrwl_dt": "2010-10"
+    },
+    {
+      "country_name": "NICARAGUA",
+      "currency_name": "Cordoba",
+      "currency_iso_code": "NIC",
+      "currency_number": "558",
+      "currency_wthdrwl_dt": "1990-10"
+    },
+    {
+      "country_name": "PERU",
+      "currency_name": "Sol",
+      "currency_iso_code": "PEH",
+      "currency_number": "604",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "PERU",
+      "currency_name": "Inti",
+      "currency_iso_code": "PEI",
+      "currency_number": "604",
+      "currency_wthdrwl_dt": "1991-07"
+    },
+    {
+      "country_name": "PERU",
+      "currency_name": "Nuevo Sol",
+      "currency_iso_code": "PEN",
+      "currency_number": "604",
+      "currency_wthdrwl_dt": "2015-12"
+    },
+    {
+      "country_name": "PERU",
+      "currency_name": "Sol",
+      "currency_iso_code": "PES",
+      "currency_number": "604",
+      "currency_wthdrwl_dt": "1986-02"
+    },
+    {
+      "country_name": "POLAND",
+      "currency_name": "Zloty",
+      "currency_iso_code": "PLZ",
+      "currency_number": "616",
+      "currency_wthdrwl_dt": "1997-01"
+    },
+    {
+      "country_name": "PORTUGAL",
+      "currency_name": "Portuguese Escudo",
+      "currency_iso_code": "PTE",
+      "currency_number": "620",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "RÉUNION",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "ROMANIA",
+      "currency_name": "Leu A/52",
+      "currency_iso_code": "ROK",
+      "currency_number": "642",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "ROMANIA",
+      "currency_name": "Old Leu",
+      "currency_iso_code": "ROL",
+      "currency_number": "642",
+      "currency_wthdrwl_dt": "2005-06"
+    },
+    {
+      "country_name": "ROMANIA",
+      "currency_name": "New Romanian Leu",
+      "currency_iso_code": "RON",
+      "currency_number": "946",
+      "currency_wthdrwl_dt": "2015-06"
+    },
+    {
+      "country_name": "RUSSIAN FEDERATION",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "2004-01"
+    },
+    {
+      "country_name": "SAINT MARTIN",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "1999-01"
+    },
+    {
+      "country_name": "SAINT PIERRE AND MIQUELON",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "SAINT-BARTHÉLEMY",
+      "currency_name": "French Franc",
+      "currency_iso_code": "FRF",
+      "currency_number": "250",
+      "currency_wthdrwl_dt": "1999-01"
+    },
+    {
+      "country_name": "SAN MARINO",
+      "currency_name": "Italian Lira",
+      "currency_iso_code": "ITL",
+      "currency_number": "380",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "SAO TOME AND PRINCIPE",
+      "currency_name": "Dobra",
+      "currency_iso_code": "STD",
+      "currency_number": "678",
+      "currency_wthdrwl_dt": "2017-12"
+    },
+    {
+      "country_name": "SERBIA AND MONTENEGRO",
+      "currency_name": "Serbian Dinar",
+      "currency_iso_code": "CSD",
+      "currency_number": "891",
+      "currency_wthdrwl_dt": "2006-10"
+    },
+    {
+      "country_name": "SERBIA AND MONTENEGRO",
+      "currency_name": "Euro",
+      "currency_iso_code": "EUR",
+      "currency_number": "978",
+      "currency_wthdrwl_dt": "2006-10"
+    },
+    {
+      "country_name": "SLOVAKIA",
+      "currency_name": "Slovak Koruna",
+      "currency_iso_code": "SKK",
+      "currency_number": "703",
+      "currency_wthdrwl_dt": "2009-01"
+    },
+    {
+      "country_name": "SLOVENIA",
+      "currency_name": "Tolar",
+      "currency_iso_code": "SIT",
+      "currency_number": "705",
+      "currency_wthdrwl_dt": "2007-01"
+    },
+    {
+      "country_name": "SOUTH AFRICA",
+      "currency_name": "Financial Rand",
+      "currency_iso_code": "ZAL",
+      "currency_number": "991",
+      "currency_wthdrwl_dt": "1995-03"
+    },
+    {
+      "country_name": "SOUTH SUDAN",
+      "currency_name": "Sudanese Pound",
+      "currency_iso_code": "SDG",
+      "currency_number": "938",
+      "currency_wthdrwl_dt": "2012-09"
+    },
+    {
+      "country_name": "SOUTHERN RHODESIA",
+      "currency_name": "Rhodesian Dollar",
+      "currency_iso_code": "RHD",
+      "currency_number": "716",
+      "currency_wthdrwl_dt": "1978 to 1981"
+    },
+    {
+      "country_name": "SPAIN",
+      "currency_name": "Spanish Peseta",
+      "currency_iso_code": "ESA",
+      "currency_number": "996",
+      "currency_wthdrwl_dt": "1978 to 1981"
+    },
+    {
+      "country_name": "SPAIN",
+      "currency_name": "\"A\" Account (convertible Peseta Account)",
+      "currency_iso_code": "ESB",
+      "currency_number": "995",
+      "currency_wthdrwl_dt": "1994-12"
+    },
+    {
+      "country_name": "SPAIN",
+      "currency_name": "Spanish Peseta",
+      "currency_iso_code": "ESP",
+      "currency_number": "724",
+      "currency_wthdrwl_dt": "2002-03"
+    },
+    {
+      "country_name": "SUDAN",
+      "currency_name": "Sudanese Dinar",
+      "currency_iso_code": "SDD",
+      "currency_number": "736",
+      "currency_wthdrwl_dt": "2007-07"
+    },
+    {
+      "country_name": "SUDAN",
+      "currency_name": "Sudanese Pound",
+      "currency_iso_code": "SDP",
+      "currency_number": "736",
+      "currency_wthdrwl_dt": "1998-06"
+    },
+    {
+      "country_name": "SURINAME",
+      "currency_name": "Surinam Guilder",
+      "currency_iso_code": "SRG",
+      "currency_number": "740",
+      "currency_wthdrwl_dt": "2003-12"
+    },
+    {
+      "country_name": "SWAZILAND",
+      "currency_name": "Lilangeni",
+      "currency_iso_code": "SZL",
+      "currency_number": "748",
+      "currency_wthdrwl_dt": "2018-08"
+    },
+    {
+      "country_name": "SWITZERLAND",
+      "currency_name": "WIR Franc (for electronic)",
+      "currency_iso_code": "CHC",
+      "currency_number": "948",
+      "currency_wthdrwl_dt": "2004-11"
+    },
+    {
+      "country_name": "TAJIKISTAN",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1995-05"
+    },
+    {
+      "country_name": "TAJIKISTAN",
+      "currency_name": "Tajik Ruble",
+      "currency_iso_code": "TJR",
+      "currency_number": "762",
+      "currency_wthdrwl_dt": "2001-04"
+    },
+    {
+      "country_name": "TIMOR-LESTE",
+      "currency_name": "Rupiah",
+      "currency_iso_code": "IDR",
+      "currency_number": "360",
+      "currency_wthdrwl_dt": "2002-07"
+    },
+    {
+      "country_name": "TIMOR-LESTE",
+      "currency_name": "Timor Escudo",
+      "currency_iso_code": "TPE",
+      "currency_number": "626",
+      "currency_wthdrwl_dt": "2002-11"
+    },
+    {
+      "country_name": "TURKEY",
+      "currency_name": "Old Turkish Lira",
+      "currency_iso_code": "TRL",
+      "currency_number": "792",
+      "currency_wthdrwl_dt": "2005-12"
+    },
+    {
+      "country_name": "TURKEY",
+      "currency_name": "New Turkish Lira",
+      "currency_iso_code": "TRY",
+      "currency_number": "949",
+      "currency_wthdrwl_dt": "2009-01"
+    },
+    {
+      "country_name": "TURKMENISTAN",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1993-10"
+    },
+    {
+      "country_name": "TURKMENISTAN",
+      "currency_name": "Turkmenistan Manat",
+      "currency_iso_code": "TMM",
+      "currency_number": "795",
+      "currency_wthdrwl_dt": "2009-01"
+    },
+    {
+      "country_name": "UGANDA",
+      "currency_name": "Uganda Shilling",
+      "currency_iso_code": "UGS",
+      "currency_number": "800",
+      "currency_wthdrwl_dt": "1987-05"
+    },
+    {
+      "country_name": "UGANDA",
+      "currency_name": "Old Shilling",
+      "currency_iso_code": "UGW",
+      "currency_number": "800",
+      "currency_wthdrwl_dt": "1989 to 1990"
+    },
+    {
+      "country_name": "UKRAINE",
+      "currency_name": "Karbovanet",
+      "currency_iso_code": "UAK",
+      "currency_number": "804",
+      "currency_wthdrwl_dt": "1996-09"
+    },
+    {
+      "country_name": "UNION OF SOVIET SOCIALIST REPUBLICS",
+      "currency_name": "Rouble",
+      "currency_iso_code": "SUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1990-12"
+    },
+    {
+      "country_name": "UNITED STATES",
+      "currency_name": "US Dollar (Same day)",
+      "currency_iso_code": "USS",
+      "currency_number": "998",
+      "currency_wthdrwl_dt": "2014-03"
+    },
+    {
+      "country_name": "URUGUAY",
+      "currency_name": "Old Uruguay Peso",
+      "currency_iso_code": "UYN",
+      "currency_number": "858",
+      "currency_wthdrwl_dt": "1989-12"
+    },
+    {
+      "country_name": "URUGUAY",
+      "currency_name": "Uruguayan Peso",
+      "currency_iso_code": "UYP",
+      "currency_number": "858",
+      "currency_wthdrwl_dt": "1993-03"
+    },
+    {
+      "country_name": "UZBEKISTAN",
+      "currency_name": "Russian Ruble",
+      "currency_iso_code": "RUR",
+      "currency_number": "810",
+      "currency_wthdrwl_dt": "1994-07"
+    },
+    {
+      "country_name": "VENEZUELA",
+      "currency_name": "Bolivar",
+      "currency_iso_code": "VEB",
+      "currency_number": "862",
+      "currency_wthdrwl_dt": "2008-01"
+    },
+    {
+      "country_name": "VENEZUELA",
+      "currency_name": "Bolivar Fuerte",
+      "currency_iso_code": "VEF",
+      "currency_number": "937",
+      "currency_wthdrwl_dt": "2011-12"
+    },
+    {
+      "country_name": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "currency_name": "Bolivar",
+      "currency_iso_code": "VEF",
+      "currency_number": "937",
+      "currency_wthdrwl_dt": "2016-02"
+    },
+    {
+      "country_name": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "currency_name": "Bolívar",
+      "currency_iso_code": "VEF",
+      "currency_number": "937",
+      "currency_wthdrwl_dt": "2018-08"
+    },
+    {
+      "country_name": "VIETNAM",
+      "currency_name": "Old Dong",
+      "currency_iso_code": "VNC",
+      "currency_number": "704",
+      "currency_wthdrwl_dt": "1989-1990"
+    },
+    {
+      "country_name": "YEMEN, DEMOCRATIC",
+      "currency_name": "Yemeni Dinar",
+      "currency_iso_code": "YDD",
+      "currency_number": "720",
+      "currency_wthdrwl_dt": "1991-09"
+    },
+    {
+      "country_name": "YUGOSLAVIA",
+      "currency_name": "New Yugoslavian Dinar",
+      "currency_iso_code": "YUD",
+      "currency_number": "890",
+      "currency_wthdrwl_dt": "1990-01"
+    },
+    {
+      "country_name": "YUGOSLAVIA",
+      "currency_name": "New Dinar",
+      "currency_iso_code": "YUM",
+      "currency_number": "891",
+      "currency_wthdrwl_dt": "2003-07"
+    },
+    {
+      "country_name": "YUGOSLAVIA",
+      "currency_name": "Yugoslavian Dinar",
+      "currency_iso_code": "YUN",
+      "currency_number": "890",
+      "currency_wthdrwl_dt": "1995-11"
+    },
+    {
+      "country_name": "ZAIRE",
+      "currency_name": "New Zaire",
+      "currency_iso_code": "ZRN",
+      "currency_number": "180",
+      "currency_wthdrwl_dt": "1999-06"
+    },
+    {
+      "country_name": "ZAIRE",
+      "currency_name": "Zaire",
+      "currency_iso_code": "ZRZ",
+      "currency_number": "180",
+      "currency_wthdrwl_dt": "1994-02"
+    },
+    {
+      "country_name": "ZAMBIA",
+      "currency_name": "Zambian Kwacha",
+      "currency_iso_code": "ZMK",
+      "currency_number": "894",
+      "currency_wthdrwl_dt": "2012-12"
+    },
+    {
+      "country_name": "ZIMBABWE",
+      "currency_name": "Rhodesian Dollar",
+      "currency_iso_code": "ZWC",
+      "currency_number": "716",
+      "currency_wthdrwl_dt": "1989-12"
+    },
+    {
+      "country_name": "ZIMBABWE",
+      "currency_name": "Zimbabwe Dollar (old)",
+      "currency_iso_code": "ZWD",
+      "currency_number": "716",
+      "currency_wthdrwl_dt": "2006-08"
+    },
+    {
+      "country_name": "ZIMBABWE",
+      "currency_name": "Zimbabwe Dollar",
+      "currency_iso_code": "ZWD",
+      "currency_number": "716",
+      "currency_wthdrwl_dt": "2008-08"
+    },
+    {
+      "country_name": "ZIMBABWE",
+      "currency_name": "Zimbabwe Dollar (new)",
+      "currency_iso_code": "ZWN",
+      "currency_number": "942",
+      "currency_wthdrwl_dt": "2006-09"
+    },
+    {
+      "country_name": "ZIMBABWE",
+      "currency_name": "Zimbabwe Dollar",
+      "currency_iso_code": "ZWR",
+      "currency_number": "935",
+      "currency_wthdrwl_dt": "2009-06"
+    },
+    {
+      "country_name": "ZZ01_Gold-Franc",
+      "currency_name": "Gold-Franc",
+      "currency_iso_code": "XFO",
+      "currency_wthdrwl_dt": "2006-10"
+    },
+    {
+      "country_name": "ZZ02_RINET Funds Code",
+      "currency_name": {
+        "_IsFund": "WAHR",
+        "__text": "RINET Funds Code"
+      },
+      "currency_iso_code": "XRE",
+      "currency_wthdrwl_dt": "1999-11"
+    },
+    {
+      "country_name": "ZZ05_UIC-Franc",
+      "currency_name": {
+        "_IsFund": "WAHR",
+        "__text": "UIC-Franc"
+      },
+      "currency_iso_code": "XFU",
+      "currency_wthdrwl_dt": "2013-11"
+    }
+  ]
+}
