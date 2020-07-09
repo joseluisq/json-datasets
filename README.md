@@ -6,7 +6,7 @@
 
 JSON file of programming languages and their keywords. Additionally it contains a summary and extensions fields. Originally adapted from https://github.com/leighmcculloch/keywords.
 
-__File:__ [programming_languages_keywords.json](./json/programming_languages_keywords.json)
+__File:__ [programming_languages_keywords.json](./json/programming-languages/programming_languages_keywords.json)
 
 __Structure:__
 
@@ -26,14 +26,38 @@ __Structure:__
 }
 ```
 
-## Programming languages and their keywords
+## Currencies
 
-JSON file of programming languages and their keywords. Additionally it contains a summary and extensions fields. Originally adapted from https://github.com/leighmcculloch/keywords.
+JSON list of all currency symbols from the [Currency Code Services – ISO 4217 / Currency & funds code list](https://www.currency-iso.org/en/home/tables.html)
 
-__FILE:__ [programming_languages_keywords.json](./json/programming_languages_keywords.json)
+__File:__ [currencies_medium.json](./json/currencies/currencies_medium.json)
+
+__Structure:__
 
 ```json
+{
+    "country_name": "PERU",
+    "currency_name": "Sol",
+    "currency_iso_code": "PEN",
+    "currency_number": "604",
+    "currency_mnr_unts": "2"
+},
+```
 
+JSON list of all currency symbols from the [Open Exchange Rates API](https://docs.openexchangerates.org/docs/currencies-json).
+
+__File:__ [currencies_simple.json](./json/currencies/currencies_simple.json)
+
+__Structure:__
+
+```json
+{
+    "EUR": "Euro",
+    "FJD": "Fijian Dollar",
+    "FKP": "Falkland Islands Pound",
+    "GBP": "British Pound Sterling",
+    "GEL": "Georgian Lari",
+},
 ```
 
 ## Contributions
