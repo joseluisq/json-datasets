@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Mac OS X Cheetah",
+        "version": "10.0",
+        "darwin": "1.2.1",
+        "release_date": "2001-03-24",
+        "architectures": [
+            "ppc"
+        ]
+    },
+    {
+        "name": "Mac OS X Puma",
+        "version": "10.1",
+        "darwin": "5.1",
+        "release_date": "2001-09-25",
+        "architectures": [
+            "ppc"
+        ]
+    },
+    {
+        "name": "Mac OS X Jaguar",
+        "version": "10.2",
+        "darwin": "6.0",
+        "release_date": "2002-08-23",
+        "architectures": [
+            "ppc"
+        ]
+    },
+    {
+        "name": "Mac OS X Panther",
+        "version": "10.3",
+        "darwin": "7.0",
+        "release_date": "2003-10-24",
+        "architectures": [
+            "ppc"
+        ]
+    },
+    {
+        "name": "Mac OS X Tiger",
+        "version": "10.4",
+        "darwin": "8.0",
+        "release_date": "2005-04-29",
+        "architectures": [
+            "ppc"
+        ]
+    },
+    {
+        "name": "Mac OS X Leopard",
+        "version": "10.5",
+        "darwin": "9.0",
+        "release_date": "2007-10-26",
+        "architectures": [
+            "ppc",
+            "x86"
+        ]
+    },
+    {
+        "name": "Mac OS X Snow Leopard",
+        "version": "10.6",
+        "darwin": "10.0",
+        "release_date": "2009-08-28",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "Mac OS X Lion",
+        "version": "10.7",
+        "darwin": "11.0.0",
+        "release_date": "2011-07-20",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "Mac OS X Mountain Lion",
+        "version": "10.8",
+        "darwin": "12.0.0",
+        "release_date": "2012-02-16",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "Mac OS X Mavericks",
+        "version": "10.9",
+        "darwin": "13.0.0",
+        "release_date": "2013-06-11",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "Mac OS X Yosemite",
+        "version": "10.10",
+        "darwin": "14.0.0",
+        "release_date": "2014-09-18",
+        "architectures": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "Mac OS X El Capitan",
+        "version": "10.11",
+        "darwin": "15.0.0",
+        "release_date": "2015-09-16",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "macOS Sierra",
+        "version": "10.12",
+        "darwin": "16.0.0",
+        "release_date": "2016-09-13",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "macOS High Sierra",
+        "version": "10.13",
+        "darwin": "17.5.0",
+        "release_date": "2017-09-25",
+        "architectures": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "macOS Mojave",
+        "version": "10.14",
+        "darwin": "18.2.0",
+        "release_date": "2018-09-24",
+        "architectures": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "macOS Catalina",
+        "version": "10.15",
+        "darwin": "19.2.0",
+        "release_date": "2019-10-07",
+        "architectures": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "macOS Big Sur",
+        "version": "11.0",
+        "darwin": "20.0.0",
+        "release_date": "2020-11-12",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ]
+    },
+    {
+        "name": "macOS Monterey",
+        "version": "12.0",
+        "darwin": "21.0.1",
+        "release_date": "2021-10-25",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ]
+    },
+    {
+        "name": "macOS Ventura",
+        "version": "13.0",
+        "darwin": "22.1.0",
+        "release_date": "2022-10-24",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ]
+    }
+]

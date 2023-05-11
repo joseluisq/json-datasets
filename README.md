@@ -1,12 +1,12 @@
 # JSON Datasets 🌎
 
-> Example of various datasets in JSON format for different usages.
+> Example of various datasets in JSON format for different purposes.
 
 ## Programming languages
 
 ### 1. Programming languages and their keywords
 
-JSON file of programming languages and their keywords. Additionally it contains a summary and extensions fields. Originally adapted from https://github.com/leighmcculloch/keywords.
+JSON file of programming languages and their keywords. Additionally, it contains a summary and extensions fields. Originally adapted from https://github.com/leighmcculloch/keywords.
 
 __File:__ [programming_languages_keywords.json](./json/programming-languages/programming_languages_keywords.json)
 
@@ -24,6 +24,29 @@ __Structure:__
     "keywords": [ "trait", "impl", "struct", "pub", "let" ],
     "sources": [
         "https://doc.rust-lang.org/grammar.html#keywords"
+    ]
+}
+```
+
+## Operating systems
+
+### 1. Mac OS X releases
+
+A data set containing generic information about Mac OS X releases.
+
+__File:__ [macosx_releases.json](./json/operating-systems/macosx_releases.json)
+
+__Structure:__
+
+```json
+{
+    "name": "macOS Ventura",
+    "version": "13.0",
+    "darwin": "22.1.0",
+    "release_date": "2022-10-24",
+    "architectures": [
+        "x86_64",
+        "arm64"
     ]
 }
 ```
@@ -86,7 +109,7 @@ __Structure:__
 
 ### 4. Currency JSON list with symbols
 
-Currency JSON list with their symbols per ISO code.
+Currency JSON list with symbols per ISO code.
 
 __File:__ [currencies_symbols.json](./json/currencies/currencies_symbols.json)
 
